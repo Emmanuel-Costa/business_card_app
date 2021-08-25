@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Projetos GIT/projetos_aleatorios/BusinessCard/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
-        <entry key="..\:/Projetos GIT/projetos_aleatorios/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projetos GIT/projetos_aleatorios/BusinessCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.18342391304347827" />
+        <entry key="..\:/Projetos GIT/projetos_aleatorios/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Projetos GIT/projetos_aleatorios/BusinessCard/app/src/main/res/layout/item_business_card.xml" value="0.25" />
       </map>
     </option>
   </component>
