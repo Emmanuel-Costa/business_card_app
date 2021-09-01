@@ -8,4 +8,16 @@
     <string name="label_hint_empresa">Empresa</string>
     <string name="label_hint_color">Cor</string>
     <string name="label_btn_confirmar">Confirmar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso!</string>
+    <string name="label_share">Compartilhar</string>
+    <string-array name="spinner_array">
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarelo</item>
+        <item>Rosa</item>
+        <item>Vinho</item>
+        <item>Roxo</item>
+        <item>Cinza</item>
+    </string-array>
 </resources>
